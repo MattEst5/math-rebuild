@@ -1,0 +1,28 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Build directories
+build/
+bin/
+debug/
+release/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / Editor stuff
+.vscode/
+*.code-workspace
+
+# Backup files
+*~
